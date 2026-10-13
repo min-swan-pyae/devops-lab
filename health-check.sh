@@ -31,3 +31,4 @@ FAILED=1
 fi
 
 exit "$FAILED"
+# Managed with Git
