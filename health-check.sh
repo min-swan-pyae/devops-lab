@@ -31,4 +31,4 @@ FAILED=1
 fi
 
 exit "$FAILED"
-# Managed with Git
+# Check both applications and return a combined exit status
